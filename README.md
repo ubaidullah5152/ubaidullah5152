@@ -45,7 +45,7 @@
 
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin.com/in/ubaid-ullah-186298417)
 
 ](https://linkedin.com/in/your-linkedin-here)
 [
