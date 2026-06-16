@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ubaid Ullah
 
-🎓 **BSAI Student** at CECOS University of Information & Technology, Peshawar  
+🎓 **BSAI Student** at CECOS University of Information Technology and Emerging Sciences  
 📍 Peshawar, Pakistan  
 🚀 Passionate about **Artificial Intelligence** & **Machine Learning**
 
@@ -47,7 +47,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/your-linkedin-here)
+](https://linkedin.com/in/ubaid-ullah-186298417)
 [
 
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
