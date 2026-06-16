@@ -43,13 +43,13 @@
 
 ## 📫 Connect with Me
 
-[
+
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/ubaid-ullah-186298417)
-[
+(https://linkedin.com/in/ubaid-ullah-186298417)
+
 
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
 
-](mailto:ubaidullah5312@gmail.com)
+(mailto:ubaidullah5312@gmail.com)
